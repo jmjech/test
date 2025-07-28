@@ -1,6 +1,6 @@
 # test
 
-'''mermaid
+```mermaid
 flowchart LR
     A-->B
-'''
+```
